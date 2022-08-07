@@ -1,0 +1,41 @@
+.marg {
+    width: 300px;
+    height: auto;
+}
+
+.las {
+    width: 250px;
+    height: auto;
+}
+
+.m1 {
+    background-color: rgb(150, 236, 96);
+    color: rgb(56, 185, 224);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.l1 {
+    background-color: rgb(231, 223, 75);
+    color: rgb(224, 56, 56);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h1 {
+    background-color: rgb(100, 114, 238);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.name {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
